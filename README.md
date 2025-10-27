@@ -21,6 +21,7 @@ Berikut adalah beberapa alat dan teknologi yang sering saya gunakan:
 
 **Bahasa Pemrograman:**
 `
+
 ![alt text](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
@@ -110,5 +111,7 @@ Mari terhubung dan diskusikan proyek atau ide menarik!
 `
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]https://www.linkedin.com/in/ivan-adi-prayoga/
+
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)]mailto:ivanprayogaadi@gmail.com
+
 [![Portfolio](https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=next.js&logoColor=white)]https://ivann132.github.io/
