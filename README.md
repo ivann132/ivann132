@@ -39,20 +39,9 @@ Berikut adalah beberapa alat dan teknologi yang sering saya gunakan:
 ![alt text](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 
-![alt text](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-
 Framework & Library Frontend:
 
 ![alt text](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-
-![alt text](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
 
 ![alt text](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
@@ -74,16 +63,8 @@ Framework & Library Backend:
 ![alt text](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
 
-![alt text](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-
-
 ![alt text](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 
-
-![alt text](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 Database:
 
@@ -96,9 +77,6 @@ Database:
 ![alt text](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 
-![alt text](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-
 ![alt text](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 Alat & Lainnya:
@@ -107,9 +85,6 @@ Alat & Lainnya:
 
 
 ![alt text](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-
-![alt text](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 
 ![alt text](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
@@ -124,7 +99,7 @@ Alat & Lainnya:
 
 `
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivann132&show_icons=true&theme=radical)](https://github.com/ivann132/github-readme-stats)
+[![Ivan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ivann132&show_icons=true&theme=radical)](https://github.com/ivann132/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ivann132&layout=compact&theme=radical)](https://github.com/ivann132/github-readme-stats)
 
 ---
