@@ -1,6 +1,6 @@
 # Halo, Saya Ivan Adi Prayoga! 👋
 
-Seorang sarjana Teknik Informatika dengan gelar S.T. Pengembang Web Full-stack, Pengembangan mobile Flutter, Desainer UI/UX yang bersemangat dengan fokus pada membangun aplikasi web yang skalabel, membangun aplikasi mobile dan menciptakan pengalaman pengguna yang intuitif. Saya suka mengubah ide menjadi kenyataan melalui kode dan desain.
+Seorang sarjana Teknik Informatika dengan gelar S.KOM. Pengembang Web Full-stack, Pengembangan mobile Flutter, Desainer UI/UX yang bersemangat dengan fokus pada membangun aplikasi web yang skalabel, membangun aplikasi mobile dan menciptakan pengalaman pengguna yang intuitif. Saya suka mengubah ide menjadi kenyataan melalui kode dan desain.
 
 ---
 
